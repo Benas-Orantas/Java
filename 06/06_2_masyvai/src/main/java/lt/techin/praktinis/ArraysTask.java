@@ -112,7 +112,7 @@ public class ArraysTask {
     //Raskite elemento kurio reikšmė lygi n paskutinį indeksą
     public static int lastIndexOf(int[] arr, int n) {
         //TODO
-        int result = 0;
+        int result = -1;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == n) {
                 result = i;
