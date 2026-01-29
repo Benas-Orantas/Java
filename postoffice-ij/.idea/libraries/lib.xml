@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/postoffice-task/lib/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postoffice-task/lib/hamcrest-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postoffice-task/lib/postoffice-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
